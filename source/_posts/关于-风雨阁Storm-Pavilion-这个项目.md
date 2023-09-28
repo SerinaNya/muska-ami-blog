@@ -5,6 +5,8 @@ tags:
   - SPCraftMC
   - Minecraft
   - 日记
+categories:
+  - SPCraftMC
 ---
 时光一去不复返，距离风雨阁Storm Pavilion | Minecraft服务器开服已经快2年了，是时候写一篇文章表达自己对这个项目的态度了。
 
