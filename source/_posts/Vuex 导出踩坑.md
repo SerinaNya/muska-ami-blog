@@ -2,6 +2,8 @@
 title: Vuex 导出踩坑
 date: 2023-09-29T14:00:44+08:00
 tags:
+    - Nuxt.js
+category: 踩坑
 ---
 报错：
 
