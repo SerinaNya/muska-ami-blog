@@ -1,5 +1,5 @@
 ---
-title: 宇宙级Gitalk初始化错误跳转到回调url解决方案
+title: 宇宙级Gitalk初始化错误跳转到回调url通用解决方案（？
 date: 2023-09-29T14:43:46+08:00
 tags:
     - Gitalk
