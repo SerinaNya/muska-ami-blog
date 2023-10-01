@@ -1,6 +1,3 @@
-[submodule "themes"]
-	path = themes
-	url = https://github.com/Muska-Ami/muska-ami-blog-theme.git
 [submodule "themes/redefine"]
 	path = themes/redefine
 	url = https://github.com/Muska-Ami/hexo-theme-redefine.git
