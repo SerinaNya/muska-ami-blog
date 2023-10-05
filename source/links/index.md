@@ -9,8 +9,8 @@ type: links
 - 名称：夏沫花火zzz🌙 (Muska_Ami)のLife
 - 链接：[https://blog.1l1.icu](https://blog.1l1.icu)
 - 介绍：Keep doing,keep loving.
-- 头像：[https://pan.1l1.icu/f/LG4Te/%E5%A4%B4%E5%83%8F.03.jpeg](https://pan.1l1.icu/f/LG4Te/%E5%A4%B4%E5%83%8F.03.jpeg)
-    <img src="https://pan.1l1.icu/f/LG4Te/%E5%A4%B4%E5%83%8F.03.jpeg" style="width: 100px">
+- 头像：[https://blog.1l1.icu/images/avatar.jpg](https://blog.1l1.icu/images/avatar.jpg)
+    <img src="https://blog.1l1.icu/images/avatar.jpg" style="width: 100px;height:100px">
 
 要求：
 
