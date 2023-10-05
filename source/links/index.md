@@ -17,5 +17,6 @@ type: links
 - 支持TLS v1.3
 - 使用受广泛信任的证书
 - 无侵入性、诱导性广告
+- [MySSL](https://myssl.com)评级A及以上
 
 将您的信息发至邮箱 [xmcn@1l1.icu](mailto:xmcn@1l1.icu) 即可申请添加
