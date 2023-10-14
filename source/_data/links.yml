@@ -29,10 +29,10 @@
       link: https://kanokano.cn
       description: 鹿友，经常会开坑忘填（划掉）のblog
       avatar: https://cravatar.cn/avatar/c56b6f5018fec0dfe27cf32f7324c5b4?s=400
-    - name: Xhofe's Blog
-      link: https://nn.ci
-      description: 晚来天欲雪，能饮一杯无？
-      avatar: https://nn.ci/images/avatar.png
+    #- name: Xhofe's Blog
+    #  link: https://nn.ci
+    #  description: 晚来天欲雪，能饮一杯无？
+    #  avatar: https://nn.ci/images/avatar.png
     - name: Charles' Blog
       link: https://shanrenyi.top
       description: 一个小白的Blog
