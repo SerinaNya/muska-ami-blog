@@ -311,6 +311,7 @@ comment:
       clientSecret: 5c5eeb51779c3ee1f706cccd3feedb26e919ff31 # GitHub Application Client Secret
       repo: muska-ami-blog # GitHub repository
       owner: Muska-Ami # GitHub repository owner
+      proxy: https://cors-anywhere.1l1.icu/https://github.com/login/oauth/access_token # CORS Proxy
     # Twikoo comment system. See https://twikoo.js.org/
     twikoo:
       version: 1.6.10 # Twikoo version, do not modify if you dont know what it is
