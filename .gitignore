@@ -10,3 +10,4 @@ _multiconfig.yml
 .package-lock.json
 
 themes/*
+image/*
