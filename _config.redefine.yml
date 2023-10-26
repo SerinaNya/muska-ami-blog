@@ -111,7 +111,7 @@ home_banner:
   subtitle:
     text: [
       "Keep doing, keep loving.",
-      "我不清楚活着是为了什么，也不清楚为谁而活。"
+      "我不清楚活着是为了什么，也不清楚为谁而活。",
     ] # subtitle text, array
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
@@ -129,7 +129,7 @@ home_banner:
   # Specific style of the text
   text_style: 
     # Title font size
-    title_size: 2.8rem
+    title_size: 2.6rem
     # Subtitle font size
     subtitle_size: 1.5rem
     # Line height between title and subtitle
@@ -149,8 +149,6 @@ home_banner:
     # Social links
     links:
       github: https://github.com/Muska-Ami # your GitHub URL
-      instagram: # your Instagram URL
-      zhihu:  # your ZhiHu URL
       twitter: https://x.com/Muska_Ami # your twitter URL
       email: xmcn@1l1.icu # your email
       # ...... # you can add more
