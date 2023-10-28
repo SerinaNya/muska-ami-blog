@@ -375,8 +375,8 @@ inject:
       <script>
       console.log("Init click effect");
       clickEffect();
-      console.log("Init sakura effect");
-      sakura();
+      //console.log("Init sakura effect");
+      //sakura();
       </script>
 # INJECT <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
