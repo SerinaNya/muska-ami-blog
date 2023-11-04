@@ -1,7 +1,10 @@
 body {
     overflow-x: hidden;
 }
+
+/*
 html,body {
-    -webkit-filter: grayscale(1); /* Chrome, Safari, Opera */
+    -webkit-filter: grayscale(1);
     filter: grayscale(1);
 }
+*/
