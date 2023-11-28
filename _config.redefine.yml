@@ -178,8 +178,10 @@ navbar:
       path: /archives 
       icon: fa-regular fa-archive # can be empty
     Status: 
-      path: https://svs.1l1.icu
       icon: fa-regular fa-chart-bar
+      submenus:
+        服务监控: https://status.1l1.icu
+        服务器监控: https://svs.1l1.icu
     # About: 
     #   icon: fa-regular fa-user
     #   submenus:
