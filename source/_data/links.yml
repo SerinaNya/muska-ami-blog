@@ -13,10 +13,6 @@
       link: https://roy.wang
       description: 知天命，懂因果
       avatar: https://roy.wang/favicon.png
-    #- name: Eunoia博客
-    #  link: https://blog.eunoia.top
-    #  description: 山海不可平
-    #  avatar: https://blog.eunoia.top/12.jpg
     - name: Xiao_Jin
       link: https://xiaojin233.cn
       description: 5050net（AS149795 Zhijie Jin）NOC
@@ -29,10 +25,6 @@
       link: https://kanokano.cn
       description: 鹿友，经常会开坑忘填（划掉）のblog
       avatar: https://cravatar.cn/avatar/c56b6f5018fec0dfe27cf32f7324c5b4?s=400
-    #- name: Xhofe's Blog
-    #  link: https://nn.ci
-    #  description: 晚来天欲雪，能饮一杯无？
-    #  avatar: https://nn.ci/images/avatar.png
     - name: Charles' Blog
       link: https://shanrenyi.top
       description: 一个小白的Blog
@@ -49,3 +41,12 @@
       link: https://blog.dreamonex.eu.org/
       description: 实践是检验真理的唯一标准
       avatar: https://blog.dreamonex.eu.org/img/avatar.png
+
+    #- name: Xhofe's Blog
+    #  link: https://nn.ci
+    #  description: 晚来天欲雪，能饮一杯无？
+    #  avatar: https://nn.ci/images/avatar.png
+    #- name: Eunoia博客
+    #  link: https://blog.eunoia.top
+    #  description: 山海不可平
+    #  avatar: https://blog.eunoia.top/12.jpg
