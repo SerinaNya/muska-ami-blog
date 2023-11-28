@@ -101,7 +101,7 @@ module.exports = (app) => {
                     }
                     _next()
                 })
-            // More method...
+            // More methods...
         }
     })
 }
