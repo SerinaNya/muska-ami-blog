@@ -6,6 +6,7 @@ tags:
     - OneCloud
     - 玩客云
     - 灯光
+    - 教程
 ---
 ## 确认Armbian版本
 
