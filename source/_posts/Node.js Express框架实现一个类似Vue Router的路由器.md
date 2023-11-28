@@ -32,7 +32,7 @@ const routes = [
 - method 定义预期请求方法
 - run 定义当 `path` , `method` 均符合时，要导入执行的JS
 
-然后我们要处理这段JS，可以遍历数组值然后分别挂载：
+然后我们要处理这段JSON，可以遍历数组值然后分别挂载：
 
 ```js
 routes.forEach((route) => {
