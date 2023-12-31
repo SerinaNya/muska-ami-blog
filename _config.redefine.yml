@@ -367,8 +367,8 @@ inject:
       <script src="/js/sakura.min.js"></script>
       <link rel="stylesheet" href="/css/sakura.min.css">
     - |-
-      <script src="/js/clickeffect.js"></script>
-      <script src="/js/sakurainit.js"></script>
+      <script src="/js/clickeffect.js" data-no-swup></script>
+      <script src="/js/sakurainit.js" data-no-swup></script>
   # Inject custom footer html code
   footer:
     - |-
