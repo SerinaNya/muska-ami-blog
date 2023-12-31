@@ -367,8 +367,8 @@ inject:
       <script src="/js/sakura.min.js"></script>
       <link rel="stylesheet" href="/css/sakura.min.css">
     - |-
-      <script src="/js/clickeffect.js" data-no-swup></script>
-      <script src="/js/sakurainit.js" data-no-swup></script>
+      <script src="/js/clickeffect.js"></script>
+      <script src="/js/sakurainit.js"></script>
   # Inject custom footer html code
   footer:
     - |-
@@ -378,10 +378,10 @@ inject:
       <div title="MySSL 安全签章" id="myssl_seal" onclick="window.open('https://myssl.com/seal/detail?domain=blog.1l1.icu','MySSL安全签章','height=800,width=470,top=0,right=0,toolbar=no,menubar=no,scrollbars=no,resizable=no,location=no,status=no')" style="text-align: center;display:inline-block;vertical-align:middle"><img src="https://sealres.myssl.com/seal/img/1x/seal.svg?domain=blog.1l1.icu" alt="MySSL 安全签章" style="width: 100px; height: auto; cursor: pointer"></div>
     - |-
       <script>
-      //console.log("Init click effect");
-      clickEffect();
-      //console.log("Init sakura effect");
-      sakura();
+      document.addEventListener("DOMContentLoaded", (event) => {
+        clickEffect();
+        sakura();
+      });
       </script>
 # INJECT <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 

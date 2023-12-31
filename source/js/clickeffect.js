@@ -1,4 +1,5 @@
 function clickEffect() {
+  let balls = [];
   let longPressed = false;
   let longPress;
   let multiplier = 0;
