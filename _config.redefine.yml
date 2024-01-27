@@ -364,6 +364,7 @@ inject:
   head:
     - |-
       <link rel="stylesheet" href="/css/extra.css">
+      <link rel="stylesheet" href="/css/cursor.css">
     - |-
       <script src="/js/sakura.min.js"></script>
       <link rel="stylesheet" href="/css/sakura.min.css">
