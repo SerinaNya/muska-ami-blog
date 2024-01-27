@@ -42,9 +42,13 @@
       description: 实践是检验真理的唯一标准
       avatar: https://blog.dreamonex.eu.org/img/avatar.png
     - name: 烟墨的屑站点
-      link: https://ymbit.cn
+      link: https://ymbit.cn/
       description: 剃刀边缘怎能起造伽蓝。
       avatar: https://api.ymbit.cn/images/favicon.jpg
+    - name: 薄荷の小屋
+      link: https://www.hoshiroko.com/
+      description: 越是拼命往前伸手，渴望之物越是渐行渐远
+      avatar: https://api.hoshiroko.com/img/avatar.jpg
 
     #- name: Xhofe's Blog
     #  link: https://nn.ci
