@@ -1,7 +1,24 @@
-html,body {
+html,body,main {
     overflow-x: hidden;
 }
+body::-webkit-scrollbar {
+    overflow-x: hidden;
+}
+.main-content {
+    content-visibility: auto;
+}
+.comment-container {
+    content-visibility: visible;
+}
+.md\:text-6xl {
+    font-size: 50px;
+}
 
+@media screen and (max-width: 600px) {    
+    .md\:text-6xl {
+        font-size: 30px;
+    }
+}
 /*
 html,body {
     -webkit-filter: grayscale(1);
