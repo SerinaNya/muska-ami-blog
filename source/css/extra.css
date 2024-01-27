@@ -1,24 +1,27 @@
-html,body,main {
-    overflow-x: hidden;
+html,
+body,
+main {
+  overflow-x: hidden;
 }
 body::-webkit-scrollbar {
-    overflow-x: hidden;
+  overflow-x: hidden;
 }
 .comment-container {
-    content-visibility: visible;
+  content-visibility: visible;
 }
 .md\:text-6xl {
-    font-size: 50px;
+  font-size: 50px;
 }
-.article-prev, .article-next {
-    text-overflow: ellipsis;
-    max-width: 400px;
+.article-prev,
+.article-next {
+  text-overflow: ellipsis;
+  max-width: 400px;
 }
 
-@media screen and (max-width: 600px) {    
-    .md\:text-6xl {
-        font-size: 30px;
-    }
+@media screen and (max-width: 600px) {
+  .md\:text-6xl {
+    font-size: 30px;
+  }
 }
 /*
 html,body {

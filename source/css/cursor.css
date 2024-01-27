@@ -1,0 +1,23 @@
+body {
+  cursor: url(/externals/cur/Breeze_Contrast/Arrow.cur), default;
+}
+select {
+  cursor: url(/externals/cur/Breeze_Contrast/Hand.cur), pointer;
+}
+button,
+a:hover {
+  cursor: url(/externals/cur/Breeze_Contrast/Hand2.cur), pointer;
+}
+input {
+  cursor: url(/externals/cur/Breeze_Contrast/Help.cur), text;
+}
+textarea,
+input:focus {
+  cursor: url(/externals/cur/Breeze_Contrast/IBeam.cur), text;
+}
+code {
+  cursor: url(/externals/cur/Breeze_Contrast/Handwriting.cur), default;
+}
+pre > code {
+  cursor: url(/externals/cur/Breeze_Contrast/Copy.cur), default;
+}
