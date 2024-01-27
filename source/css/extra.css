@@ -13,6 +13,10 @@ body::-webkit-scrollbar {
 .md\:text-6xl {
     font-size: 50px;
 }
+.article-prev, .article-next {
+    text-overflow: ellipsis;
+    max-width: 400px;
+}
 
 @media screen and (max-width: 600px) {    
     .md\:text-6xl {
