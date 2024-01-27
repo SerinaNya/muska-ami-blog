@@ -4,9 +4,6 @@ html,body,main {
 body::-webkit-scrollbar {
     overflow-x: hidden;
 }
-.main-content {
-    content-visibility: auto;
-}
 .comment-container {
     content-visibility: visible;
 }
