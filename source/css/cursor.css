@@ -1,23 +1,13 @@
 body {
-  cursor: url(/externals/cur/Breeze_Contrast/Arrow.cur), default;
-}
-select {
-  cursor: url(/externals/cur/Breeze_Contrast/Hand.cur), pointer;
-}
-button,
-a:hover {
-  cursor: url(/externals/cur/Breeze_Contrast/Hand2.cur), pointer;
+  cursor: url(/externals/cur/naibai_cus/normal.cur), default;
 }
 input {
-  cursor: url(/externals/cur/Breeze_Contrast/Help.cur), text;
+  cursor: url(/externals/cur/naibai_cus/text.cur), text;
 }
 textarea,
 input:focus {
-  cursor: url(/externals/cur/Breeze_Contrast/IBeam.cur), text;
+  cursor: url(/externals/cur/naibai_cus/handwriting.cur), text;
 }
-code {
-  cursor: url(/externals/cur/Breeze_Contrast/Handwriting.cur), default;
-}
-pre > code {
-  cursor: url(/externals/cur/Breeze_Contrast/Copy.cur), default;
+code, pre > code, .highlight-container {
+  cursor: url(/externals/cur/naibai_cus/text.cur), text;
 }
