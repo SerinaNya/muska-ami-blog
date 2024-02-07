@@ -18,8 +18,8 @@
 
 /* 修复樱花的BUG */
 .sakura {
-  pointer-events: none;
-  position: fixed;
+  pointer-events: none !important;
+  position: fixed !important;
 }
 
 /*
