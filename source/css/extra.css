@@ -1,11 +1,3 @@
-html,
-body,
-main {
-  overflow-x: hidden;
-}
-body::-webkit-scrollbar {
-  overflow-x: hidden;
-}
 .comment-container {
   content-visibility: visible;
 }
@@ -23,6 +15,13 @@ body::-webkit-scrollbar {
     font-size: 30px;
   }
 }
+
+/* 修复樱花的BUG */
+.sakura {
+  pointer-events: none;
+  position: fixed;
+}
+
 /*
 html,body {
     -webkit-filter: grayscale(1);
