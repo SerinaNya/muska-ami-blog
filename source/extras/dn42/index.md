@@ -8,7 +8,16 @@ date: 2024-03-10 20:32:00
 
 ## 公网地址
 
-WIP
+```plaintext
+HOST:           home.1l1.icu
+PORT:           3400
+```
+
+## WireGuard公钥
+
+```plaintext
+tluNUow2m+F3lXsk9YXHtMPrvyPtpgYncM5v1KyMDAQ=
+```
 
 ## NET Information
 
