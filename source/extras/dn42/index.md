@@ -6,11 +6,25 @@ date: 2024-03-10 20:32:00
 
 欢迎和我的NET建立Peer~
 
-## 公网地址
+## 对端地址
 
 ```plaintext
 HOST:           home.1l1.icu
 PORT:           3400
+```
+
+## Link-Local
+
+<!-- ### IPv4
+
+```plaintext
+172.31.0.101
+``` -->
+
+### IPv6
+
+```plaintext
+fe80::101
 ```
 
 ## WireGuard公钥
