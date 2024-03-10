@@ -15,11 +15,11 @@ PORT:           3400
 
 ## Link-Local
 
-<!-- ### IPv4
+### IPv4
 
 ```plaintext
 172.31.0.101
-``` -->
+```
 
 ### IPv6
 
