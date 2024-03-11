@@ -10,7 +10,7 @@ date: 2024-03-10 20:32:00
 
 ```plaintext
 HOST:           home.1l1.icu
-PORT:           3400
+PORT:           34xx
 ```
 
 ## Link-Local
