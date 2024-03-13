@@ -8,18 +8,14 @@ date: 2024-03-10 20:32:00
 
 ## 对端地址
 
+请通过邮件或其他方式联系我提供对端端口，邮件地址为 <mailto:xmcn@1l1.icu>
+
 ```plaintext
 HOST:           home.1l1.icu
 PORT:           34xx
 ```
 
 ## Link-Local
-
-### IPv4
-
-```plaintext
-172.31.0.101
-```
 
 ### IPv6
 
