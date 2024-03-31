@@ -69,7 +69,19 @@
       link: https://khbit.cn/
       description: 一名Bug带师（不是
       avatar: https://api.ymbit.cn/images/kuohu_favicon.jpg
-      
+
+- links_category: 组织/团体
+  has_thumbnail: false
+  list: 
+    - name: k43Lab
+      link: https://k43lab.1l1.icu/
+      description: A orgnization witch designed to facilitate communication about technologies.
+      avatar: https://k43lab.1l1.icu/k43lab.png
+    - name: 异世界
+      link: https://otherworld.icu/
+      description: 某个神秘的地方（？）
+      avatar: https://p.qlogo.cn/gh/673460010/673460010/640
+
     #- name: Xhofe's Blog
     #  link: https://nn.ci
     #  description: 晚来天欲雪，能饮一杯无？
