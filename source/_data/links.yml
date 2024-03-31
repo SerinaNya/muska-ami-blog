@@ -28,7 +28,7 @@
     - name: Charles' Blog
       link: https://shanrenyi.top
       description: 一个小白的Blog
-      avatar: https://pic-up.star-skin.cn/i/2023/03/07/7dc8b8dd-02b1-b3f2-bc3c-63052d5b5b6a.png
+      avatar: https://thirdqq.qlogo.cn/g?b=sdk&k=Y4mYqPN4cvnMgsV26P5yqQ&kti=ZddzOQAAAAE&s=100&t=1674827794
     - name: 阿付の小破站
       link: https://afqaq.com
       description: 你也是一个正在追逐梦想的灵魂吗？
@@ -69,6 +69,10 @@
       link: https://khbit.cn/
       description: 一名Bug带师（不是
       avatar: https://api.ymbit.cn/images/kuohu_favicon.jpg
+    - name: 八蓝米科技
+      link: https://8mi.tech/
+      description: 八蓝米科技提供：BMCLAPI 助力加速，直播录像存储，不干人事，想整骚活
+      avatar: https://8mi.tech/favicon.ico
 
 - links_category: 组织/团体
   has_thumbnail: false
