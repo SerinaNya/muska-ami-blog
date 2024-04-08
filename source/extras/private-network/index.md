@@ -11,7 +11,7 @@ date: 2024-04-08 22:38:00
 
 ### Network View
 
-![Map](https://cloud.1l1.icu/f/9QSA/Muska-Ami-Network-Famework.jpg)
+![Map](https://cloud.1l1.icu/f/89TL/Muska-Ami-Network-Famework.jpg)
 
 ### Join?
 
