@@ -201,6 +201,7 @@ navbar:
       submenus:
         Subnets: /extras/subnets
         DN42: /extras/dn42
+        Muska Ami Network: /extras/private-network
     #   submenus:
     #     Link1: /link1
     #     Link2: /link2
