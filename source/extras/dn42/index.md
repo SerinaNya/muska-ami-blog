@@ -11,8 +11,8 @@ date: 2024-03-10 20:32:00
 请通过邮件或其他方式联系我提供对端端口，邮件地址为 <mailto:xmcn@1l1.icu>
 
 ```plaintext
-HOST:           home.1l1.icu
-PORT:           34xx
+HOST:           d2550.home.1l1.icu
+PORT:           4<ASN without `424242` prefix>
 ```
 
 ## Link-Local
@@ -20,13 +20,13 @@ PORT:           34xx
 ### IPv6
 
 ```plaintext
-fe80::101
+fe80::4511
 ```
 
 ## WireGuard公钥
 
 ```plaintext
-tluNUow2m+F3lXsk9YXHtMPrvyPtpgYncM5v1KyMDAQ=
+7+AK0CQsnMklZMXu9CwNtzhIGqGOhd9ifI7Jozbdmzo=
 ```
 
 ## NET Information
