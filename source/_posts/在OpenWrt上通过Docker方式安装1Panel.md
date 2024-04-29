@@ -4,7 +4,7 @@ date: 2024-04-29T13:12:36+08:00
 tags:
     - OpenWrt
     - 1Panel
-cover: https://cloud.1l1.icu/f/dWiM/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-04-29%20132500.png
+cover: https://cloud.1l1.icu/f/YQIe/banner.png
 ---
 ## 安装Docker
 
