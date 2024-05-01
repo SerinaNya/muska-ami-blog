@@ -138,4 +138,4 @@ systemctl enable --now zbproxy.service
 登录DNSPod，找到自己域名，添加对应记录并修改 `线路类型`
 e.g.
 
-![Record](https://cloud.1l1.icu/f/M4iJ/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-03-08%20124057.png)
+![Record](https://apac-cloudflare-r2.img.1l1.icu/2024/05/02/66328c738bcd0.webp)

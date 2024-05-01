@@ -21,8 +21,8 @@ tags:
 - 协议 `不配置协议`
 - 设备 以 `zt` 开头的设备，为你的ZeroTier接口设备
 
-![P](https://cloud.1l1.icu/f/VDfM/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-27%20190601.png)
-![P](https://cloud.1l1.icu/f/evcG/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-27%20185837.png)
+![P](https://apac-cloudflare-r2.img.1l1.icu/2024/05/02/66328ec27ab53.webp)
+![P](https://apac-cloudflare-r2.img.1l1.icu/2024/05/02/66328ec0af6d7.webp)
 
 ## 设置转发规则
 
@@ -41,7 +41,7 @@ tags:
 
 - 允许转发到目标区域 `ztlan`
 
-![P](https://cloud.1l1.icu/f/LKue/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-27%20191132.png)
+![P](https://apac-cloudflare-r2.img.1l1.icu/2024/05/02/66328ec0c731a.webp)
 
 前往 `NAT规则`
 
@@ -51,8 +51,8 @@ tags:
 - 出站区域 `ztlan`
 - 操作 `MASQUERADE - 自动重写源地址为出站接口 IP`
 
-![P](https://cloud.1l1.icu/f/RESd/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-27%20191505.png)
+![P](https://apac-cloudflare-r2.img.1l1.icu/2024/05/02/66328ebc9967b.webp)
 
 大功告成
 
-![P](https://cloud.1l1.icu/f/2rTE/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-27%20191631.png)
+![P](https://apac-cloudflare-r2.img.1l1.icu/2024/05/02/66328ec0235fa.webp)

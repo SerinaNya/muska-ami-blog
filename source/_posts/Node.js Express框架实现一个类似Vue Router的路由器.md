@@ -11,9 +11,6 @@ tags:
 ## 说明
 
 首先新建一个新的js，比如此处我用的是 `router.js`
-
-![Router](https://pan.1l1.icu/f/zDlSJ/%7B221BCBB8-DB55-4d6d-9B0A-0E9C952D7121%7D.png)
-
 我们先来看看逻辑，首先我们想要通过JSON字段来定义Route，所以创建了一个叫做routes的数组：
 
 ```js

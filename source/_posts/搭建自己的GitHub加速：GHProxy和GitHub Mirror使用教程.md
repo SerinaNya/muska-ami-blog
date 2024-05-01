@@ -73,7 +73,7 @@ docker run -d --name="gh-proxy-py" \
 ```
 
 浏览器打开 `http://服务器IP:端口` 即可查看效果。
-![P](https://cloud.1l1.icu/f/JQUZ/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-24%20173323.png)
+![P](https://apac-cloudflare-r2.img.1l1.icu/2024/05/02/66328ae3d2999.webp)
 
 ## 搭建GitHub API镜像
 
@@ -139,11 +139,9 @@ docker run --rm -it -p 8080:8080 quay.io/app-sre/github-mirror
 此处反代主要是添加SSL证书和更多高级功能，我这里用的是[1Panel](https://1panel.cn)管理。
 假设此处已安装Openresty。
 
-确认已经部署好了服务：
-![P](https://cloud.1l1.icu/f/B4Cz/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-24%20172311.png)
+确认已经部署好了服务。
 左侧面板打开 `网站` -> `网站` ，点击 `创建网站` 。点击右上反向代理。
 根据实际情况填写相关信息。然后 `创建` 。
-![P](https://cloud.1l1.icu/f/OKt9/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-24%20172743.png)
 添加相关DNS记录，完成。
 
 ### 添加SSL证书
@@ -151,4 +149,3 @@ docker run --rm -it -p 8080:8080 quay.io/app-sre/github-mirror
 找到刚刚创建的网站，点击 `操作` 中的 `配置` 。
 点击 `HTTPS` ，打开HTTPS开关。
 根据实际选择SSL证书。
-![P](https://cloud.1l1.icu/f/34hv/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-01-24%20173200.png)

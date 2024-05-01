@@ -54,4 +54,4 @@ dont_scan_volumes Windows
 
 ## 效果
 
-![效果](https://cloud.1l1.icu/f/aYU2/IMG_20240331_173518_885.jpg)
+![效果](https://apac-cloudflare-r2.img.1l1.icu/2024/05/02/66328cca03751.webp)

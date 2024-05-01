@@ -4,7 +4,7 @@ date: 2024-04-29T13:12:36+08:00
 tags:
     - OpenWrt
     - 1Panel
-cover: https://cloud.1l1.icu/f/YQIe/banner.png
+cover: https://apac-cloudflare-r2.img.1l1.icu/2024/05/02/66328a0c5b904.webp
 ---
 ## 安装Docker
 
@@ -41,4 +41,4 @@ docker exec -it 1panel /bin/sh
 1pctl user-info
 ```
 
-![Shell](https://cloud.1l1.icu/f/dWiM/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-04-29%20132500.png)
+![Shell](https://apac-cloudflare-r2.img.1l1.icu/2024/05/02/66328a0d16b59.webp)
