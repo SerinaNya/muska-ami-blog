@@ -5,14 +5,24 @@ date: 2024-03-10 20:32:00
 ## DN42
 
 欢迎和我的NET建立Peer~
+Looking Glass: [https://looking-glass.dn42.1l1.icu/](https://looking-glass.dn42.1l1.icu/) (仅限IPv6访问)
 
 ## 对端地址
 
 请通过邮件或其他方式联系我提供对端端口，邮件地址为 <mailto:xmcn@1l1.icu>
 
+### Hezhou,Guangxi,China (CMCC)
+
 ```plaintext
 HOST:           d2550.home.1l1.icu
 PORT:           4<ASN without `424242` prefix>
+```
+
+### Tokyo,Japan (Akile Network)
+
+```plaintext
+HOST:           tokyo-1.jp.dn42.1l1.icu
+PORT:           2<ASN without `424242` prefix>
 ```
 
 ## Link-Local
@@ -35,8 +45,8 @@ fe80::4511
 ASN:            AS4242423745
 ROUTE:          172.23.126.128/27
 ROUTE6:         fdb5:32:ad4a::/48
-MNTER:          MUSKAAMI-MNT
-ADMIN-C:        MUSKAAMI-DN42
-TECH-C:         MUSKAAMI-DN42
+MNTER:          MUSKA-MNT
+ADMIN-C:        MUSKA-DN42
+TECH-C:         MUSKA-DN42
 AUTH:           pgp-fingerprint 335221E5DC90373604149C608C7736197D476704
 ```
