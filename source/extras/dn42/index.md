@@ -14,15 +14,17 @@ Looking Glass: [https://looking-glass.dn42.1l1.icu/](https://looking-glass.dn42.
 ### Hezhou,Guangxi,China (CMCC)
 
 ```plaintext
-HOST:           d2550.home.1l1.icu
+HOST:           cn-gx-hz-1.dn42.1l1.icu
 PORT:           4<ASN without `424242` prefix>
+NETWORK:        IPv6
 ```
 
 ### Tokyo,Japan (Akile Network)
 
 ```plaintext
-HOST:           tokyo-1.jp.dn42.1l1.icu
+HOST:           jp-tokyo-1.dn42.1l1.icu
 PORT:           2<ASN without `424242` prefix>
+NETWORK:        IPv4&IPv6
 ```
 
 ## Link-Local
