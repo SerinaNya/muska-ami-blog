@@ -32,7 +32,7 @@ NETWORK:        IPv4&IPv6
 ### IPv6
 
 ```plaintext
-fe80::4511
+fe80::3745
 ```
 
 ## WireGuard公钥
