@@ -27,6 +27,14 @@ PORT:           2<ASN without `424242` prefix>
 NETWORK:        IPv4&IPv6
 ```
 
+### HongKong (Akile Network)
+
+```plaintext
+HOST:           hk-1.dn42.1l1.icu
+PORT:           2<ASN without `424242` prefix>
+NETWORK:        IPv4&IPv6
+```
+
 ## Link-Local
 
 ### IPv6
